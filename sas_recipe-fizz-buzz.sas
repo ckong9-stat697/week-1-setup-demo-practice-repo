@@ -11,6 +11,7 @@ Approach: Use a null data step and business logic to write to the log
 *Example;
 
 * Update fizz-buzz recipe to handle mod 15;
+* Added HAHA;
 
 data _null_;
     do i = 1 to 100;
