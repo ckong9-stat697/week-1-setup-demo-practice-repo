@@ -12,6 +12,7 @@ Approach: Use a null data step and business logic to write to the log
 
 * Update fizz-buzz recipe to handle mod 15;
 * Added HAHA;
+* Comments;
 
 data _null_;
     do i = 1 to 100;
